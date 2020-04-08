@@ -1,8 +1,8 @@
  count = 10
  
- while count >= 1
+ while count >= 1 do
 
- do
+ 
    puts count
   
   count -= 1
